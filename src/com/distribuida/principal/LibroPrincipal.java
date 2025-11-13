@@ -10,6 +10,7 @@ public class LibroPrincipal {
     public static void main(String[] args) {
 
         // Crear los objetos relacionados
+        // fkdlsakflñsafkdñsk
         Categoria categoria = new Categoria(1, "Ciencia Ficción", "Historias futuristas o tecnológicas");
         Autor autor = new Autor(1, "EE.UU.", "Isaac", "Asimov", "New York", "0987654321", "asimov@example.com");
 
