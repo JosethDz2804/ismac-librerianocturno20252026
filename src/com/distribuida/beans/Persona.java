@@ -1,5 +1,4 @@
 package com.distribuida.beans;
-
 /**
  * Clase base que representa a una persona.
  * Se usa para aplicar HERENCIA con las clases Autor y Cliente.
@@ -40,7 +39,7 @@ public class Persona {
     public String getCorreo() { return correo; }
     public void setCorreo(String correo) { this.correo = correo; }
 
-    // Método polimórfico
+    //Metodo Polimorfico
     public String obtenerInformacion() {
         return nombre + " " + apellido + " - " + correo;
     }

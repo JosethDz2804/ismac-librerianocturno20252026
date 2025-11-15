@@ -1,5 +1,4 @@
 package com.distribuida.beans;
-
 /**
  * Representa a un autor, hereda de Persona.
  */

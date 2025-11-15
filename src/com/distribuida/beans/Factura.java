@@ -1,7 +1,5 @@
 package com.distribuida.beans;
-
 import java.util.Date;
-
 /**
  * Representa una factura, asociada a un cliente.
  */

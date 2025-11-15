@@ -1,5 +1,4 @@
 package com.distribuida.beans;
-
 /**
  * Representa la categoría de un libro.
  */

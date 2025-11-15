@@ -1,5 +1,4 @@
 package com.distribuida.beans;
-
 /**
  * Representa un libro, con relaciones a Autor y Categoria.
  */

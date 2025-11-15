@@ -1,5 +1,4 @@
 package com.distribuida.beans;
-
 /**
  * Representa a un cliente, hereda de Persona.
  */

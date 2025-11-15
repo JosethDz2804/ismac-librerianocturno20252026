@@ -1,5 +1,4 @@
 package com.distribuida.beans;
-
 /**
  * Representa el detalle de una factura, relacionando Factura y Libro.
  */
