@@ -1,13 +1,10 @@
 package com.distribuida.principal;
-
 import com.distribuida.beans.*;
 import java.util.Date;
-
 /**
  * Clase de prueba para la entidad Factura, relacionando con Cliente.
  */
 public class FacturaPrincipal {
-
     public static void main(String[] args) {
 
         // Crear cliente

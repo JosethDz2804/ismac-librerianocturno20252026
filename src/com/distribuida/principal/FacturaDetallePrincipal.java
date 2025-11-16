@@ -1,8 +1,6 @@
 package com.distribuida.principal;
-
 import com.distribuida.beans.*;
 import java.util.Date;
-
 /**
  * Clase de prueba para FacturaDetalle, relacionando Factura y Libro.
  */
@@ -39,10 +37,8 @@ public class FacturaDetallePrincipal {
                 categoria,
                 autor
         );
-
         // Crear detalle de factura
         FacturaDetalle detalle = new FacturaDetalle(1, 2, libro.getPrecio() * 2, factura, libro);
-
         System.out.println("=== Detalle de Factura ===");
         System.out.println(detalle.toString());
     }

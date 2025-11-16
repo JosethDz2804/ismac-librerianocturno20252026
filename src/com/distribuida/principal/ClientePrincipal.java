@@ -1,7 +1,5 @@
 package com.distribuida.principal;
-
 import com.distribuida.beans.Cliente;
-
 /**
  * Clase de prueba para la entidad Cliente.
  * Se encarga de crear un objeto Cliente y mostrar sus datos.

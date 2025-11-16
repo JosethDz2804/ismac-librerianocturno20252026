@@ -1,7 +1,5 @@
 package com.distribuida.principal;
-
 import com.distribuida.beans.*;
-
 /**
  * Clase de prueba para la entidad Libro, relacionando Autor y Categoria.
  */

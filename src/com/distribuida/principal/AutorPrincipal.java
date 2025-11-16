@@ -1,7 +1,5 @@
 package com.distribuida.principal;
-
 import com.distribuida.beans.Autor;
-
 /**
  * Clase de prueba para la entidad Autor.
  */
